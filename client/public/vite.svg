@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Message card">
+  <!-- Card container -->
+  <rect x="3.5" y="5.5" width="13" height="10" rx="2.5"
+        stroke="currentColor" stroke-width="1.5"/>
+  <!-- Tail notch -->
+  <path d="M9.25 15.5c.22 0 .43.08.6.22l1.9 1.6c.36.3.9.04.9-.43v-1.39"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lines instead of dots -->
+  <path d="M6.5 9.25h6.5M6.5 11.25h4.2"
+        stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
