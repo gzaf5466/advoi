@@ -1,0 +1,39 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Builds
+backend/dist/
+client/dist/
+.esbuild/
+.vite/
+
+# Env
+.env
+*.env
+**/.env
+**/.env.local
+**/.env.*.local
+backend/.env
+client/.env
+
+# IDE/editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
+.tmp/
+ 
+# Legacy folder (not part of deployment)
+mgz-secure/
+
+# Archives/exports
+*.zip
+client/dist.zip
